@@ -51,7 +51,6 @@ img {
     position: absolute !important;
     padding-left: 80px !important;
     top: 580px !important;
-    width: 100% !important;
     margin-left: 45px !important;
     color: tomato !important;
 }
@@ -194,9 +193,11 @@ hr {
 
 @media only screen and (max-width: 600px) {
 
-    img {width: 350px;  height: auto;}
+    img {width: 350px;  height: auto; margin-left: 5px;}
 
     #about {margin: 10px; !important;}
+
+    .picture {padding-left: 0; margin-left: 0 !important;}
 
     .fa-linkedin-square {margin: 10px 10px 10px 30px; !important;}
     .fa-twitter-square {margin-right: 10px; !important;}
@@ -207,9 +208,7 @@ hr {
     #name {
         font-family: 'Josefin Sans', sans-serif !important;
         position: absolute !important;
-        /*padding-left: 80px !important;*/
         top: 450px !important;
-        width: 100% !important;
         margin-left: 5px !important;
         color: tomato !important;
     }
