@@ -1,0 +1,188 @@
+body {
+    font-family: 'Josefin Sans', sans-serif !important;
+    background: #ECE9E6; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #ECE9E6 , #FFFFFF); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #ECE9E6 , #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+!important;
+}
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+}
+
+h3  {
+    color: tomato !important;
+}
+
+h4 {
+    color: floralwhite !important;
+}
+
+.col-md-4 {
+    margin: 0 0 5px 15px;
+    padding-left: 20px;
+    position: relative !important;
+}
+
+.col-md-7 {
+    margin-left: 10px !important;
+}
+
+
+img {
+    margin-top: 25px;
+    height: auto;
+    width: 350px;
+    -webkit-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif !important;
+    position: absolute !important;
+    padding-left: 80px !important;
+    top: 450px !important;
+    width: 75% !important;
+    color: tomato !important;
+}
+
+.welcome {
+    color: tomato;
+    font-size: 26px;
+}
+
+#welcome {
+    padding-left: 20px;
+    padding-right: 15px;
+
+}
+
+p {
+    font-size: 17px;
+}
+.about {
+    padding-left: 15px !important;
+    padding-right: 10px !important;
+}
+
+a, a:active, a:focus {
+    outline: none !important;
+}
+
+.fa-linkedin-square {
+    color: #006fa6;
+    border: none;
+    text-shadow: -2px 2px 3px rgba(0,0,0,0.5) !important;
+    padding-right: 10px;
+}
+
+.fa-twitter-square {
+    color: #1da1f2;
+    border: none;
+    text-shadow: -2px 2px 3px rgba(0,0,0,0.5) !important;
+    padding-right: 10px;
+}
+
+.fa-github-square {
+    color: #333;
+    border: none !important;
+    text-shadow: -2px 2px 3px rgba(0,0,0,0.5) !important;
+    padding-right: 10px;
+}
+
+.icons, ul {
+    /*float: left;*/
+    margin-left: 95px;
+    margin-top: 15px !important;
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+}
+
+i {
+    margin-right: 15px;
+}
+
+.skills {
+    margin-left: 0;
+    text-decoration: dashed ;
+    display: block;
+    font-size: 15px;
+}
+
+.bars {
+    color: tomato;
+    margin-bottom: 3px;
+}
+
+.contact {
+
+    margin-top: 45px;
+}
+
+hr {
+    display: block !important;
+    height: 0.25px !important;
+    border: 0 !important;
+    border-top: 1px solid thistle !important;
+    margin: 2em 0 !important;
+    padding: 0 !important;
+}
+
+.projects {
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom:35px;
+}
+
+#projects {
+    width: 80%;
+    margin-left: 9% !important;
+    vertical-align: middle !important;
+}
+
+.project {
+    box-sizing: border-box !important;
+    margin: 0 auto !important;
+}
+
+.project h3 {
+    text-align: center;
+}
+
+.project p {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.thumbnail img {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.thumbnail {
+    border: 1px solid tomato !important;
+    height: 450px !important;
+    margin: 15px 10px 25px 10px !important;
+    -webkit-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+
+
+    background: #000000; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+
+}
