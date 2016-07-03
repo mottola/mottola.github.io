@@ -6,19 +6,9 @@ body {
 !important;
 }
 
-@media only screen and (max-width: 1195px) {
-
-    img#portrait {margin: 0 auto; padding: 0; display: block}
-}
-
-@media only screen and (min-width: 1500px) {
-
-    img#portrait {width: 500px; height: auto; margin-left: 20px; padding: 0; display: block}
-    .about {margin-left: 0;}
-}
 .picture {
     margin-right: 0 !important;
-    margin: 20px 0 5px 15px;
+    margin: 5px 0 5px 15px;
     padding: 0 0 0 20px !important;
     position: relative !important;
 }
@@ -26,7 +16,7 @@ body {
 .about {
     padding-left: 10px !important;
     padding-right: 10px !important;
-    margin: 20px 20px 0 70px !important;
+    margin: 5px 20px 0 70px !important;
 }
 
 .container {
@@ -193,3 +183,29 @@ hr {
     box-shadow: -8px 8px 5px 0px rgba(255, 99, 71, 0.75) !important;
     text-decoration: none !important;
 }
+
+/*@media only screen and (max-width: 1195px) {*/
+
+    /*img#portrait {margin: 0 auto; padding: 0; display: block;*/
+        /*position: relative;}*/
+    /*h1#name {margin: 0 auto; position: absolute !important;}*/
+/*}*/
+
+/*@media only screen and (max-width: 600px) {*/
+
+    /*img#portrait {*/
+        /*width: 250px;*/
+        /*height: auto; margin: 0 auto; padding: 0; display: block;*/
+        /*position: relative;}*/
+
+    /*img {width: 250px;  height: auto;}*/
+
+    /*h1#name {position: absolute !important;}*/
+
+    /*.fa-linkedin-square {margin-right: 10px; !important;}*/
+    /*.fa-twitter-square {margin-right: 10px; !important;}*/
+    /*.fa-github-square {margin-right: 10px; !important;}*/
+
+    /*.icons {margin: 0 auto!important;}*/
+
+/*}*/
