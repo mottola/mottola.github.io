@@ -184,16 +184,13 @@ hr {
     text-decoration: none !important;
 }
 
-/*@media only screen and (max-width: 1195px) {*/
-
-    /*img#portrait {margin: 0 auto; padding: 0; display: block;*/
-        /*position: relative;}*/
-    /*h1#name {margin: 0 auto; position: absolute !important;}*/
-/*}*/
+@media only screen and (max-width: 1195px) and (min-width: 850px) {
+    .picture {margin-left: 300px;}
+}
 
 @media only screen and (max-width: 600px) {
 
-    img {width: 345px;  height: auto; margin-left: 5px;}
+    img {width: 345px;  height: auto; margin-left: 5px; overflow: hidden;}
 
     #about {margin: 10px; !important;}
 
