@@ -64,6 +64,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/MyApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/MyApp.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="personalSite.iws" />
@@ -98,8 +99,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+            <state relative-caret-position="358">
+              <caret line="195" column="19" selection-start-line="195" selection-start-column="19" selection-end-line="195" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -686,12 +687,12 @@
       <workItem from="1467519387974" duration="1730000" />
       <workItem from="1467521868307" duration="76000" />
       <workItem from="1467563920388" duration="2145000" />
-      <workItem from="1467566915762" duration="8159000" />
+      <workItem from="1467566915762" duration="8304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42730000" />
+    <option name="totallyTimeSpent" value="42875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="954" height="1013" extended-state="0" />
@@ -862,8 +863,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+        <state relative-caret-position="358">
+          <caret line="195" column="19" selection-start-line="195" selection-start-column="19" selection-end-line="195" selection-end-column="19" />
           <folding />
         </state>
       </provider>
