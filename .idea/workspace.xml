@@ -2,132 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="143e4395-1605-45fa-9a69-a9a40cb48b51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Android/ButtonClickCounter/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Android/HelloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/helloworld/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/human/Human.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnGradle/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnGradle/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnGradle/src/main/java/hello/Greeter.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnGradle/src/main/java/hello/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/ByteShortInt/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/CharAndBoolean/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/FloatAndDouble/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/IfKeywordAndCodeBlocks/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/KeywordsAndExpressions/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/MethodOverloading/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/Methods/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/Operators/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/StatementsWhiteSpaceAndIndenting/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/LearnJava/Strings/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/runner.layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/web-browsers.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default _1_.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default _2_.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/DarkMaterial.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/Ladies Night 2.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/LightMaterial.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/colors/Peacock.icls" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/code.style.schemes.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/javaeeAppServers.xml" />
-      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationBeanScopeApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationDemoApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/Coach.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/DatabaseFortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/FortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/HappyFortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RESTFortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RandomFortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/TennisCoach.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/ServerTest/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/beanLifecycle-applicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/beanScopeapplicationContext.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/sport.properties" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BaseballCoach.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanLifecycleDemoApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanScopeDemoApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/Coach.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/CricketCoach.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/FortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HappyFortuneService.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HelloSpringApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/MyApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" />
+      <change type="DELETED" beforePath="$USER_HOME$/LearnGradle/.gradle/2.13/taskArtifacts/build.gradle" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/hello-world.iml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/misc.xml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/modules.xml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/challenge1/.vscode/tasks.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/challenge1/unisex_name_data.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/challenge1/working_with_real_data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/conditional_logic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/files_and_list_manipulation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/for_loop_Gauss.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/manipulating_lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/python-methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/python_data_types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/python_lists_arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../dataquest/python_basics/python_packages.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/dictionaries/mottola.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/learnPython.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/.idea/intermediate-python.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/intermediate-python/matplotlib/basic_plots.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/.idea/python_basics.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/built_in_functions.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/for_loop.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/for_loop_Gauss.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/functions_continued.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/if.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/if_elif.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/if_else.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/manipulating_lists.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/python-methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/python_data_types.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/python_lists_arrays.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/scope.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/try_and_except.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/while_loops.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../learnPython/python_basics/while_with_input.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/src/actions/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/src/components/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/src/containers/search_bar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/src/reducers/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/test/components/app_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/test/test_helper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../redux-weather-app/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/learn_java/HelloWorld/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/learn_java/HelloWorld/src/Hello.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/angular2-app-1" afterPath="$USER_HOME$/projects/angular2-app-1" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/cylon-js/led" afterPath="$USER_HOME$/projects/cylon-js/led" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/higher-order-components" afterPath="$USER_HOME$/projects/higher-order-components" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/learn-links" afterPath="$USER_HOME$/projects/learn-links" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/markdown-converter" afterPath="$USER_HOME$/projects/markdown-converter" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/meteor-react-employee-database" afterPath="$USER_HOME$/projects/meteor-react-employee-database" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/patatap-clone-app" afterPath="$USER_HOME$/projects/patatap-clone-app" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/react-middleware" afterPath="$USER_HOME$/projects/react-middleware" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/react-testing" afterPath="$USER_HOME$/projects/react-testing" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/server-boilerplate" afterPath="$USER_HOME$/projects/server-boilerplate" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/todo-api" afterPath="$USER_HOME$/projects/todo-api" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/projects/vanilla" afterPath="$USER_HOME$/projects/vanilla" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/helloworld/HelloWorld.java" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/helloworld/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/human/Human.java" afterPath="$USER_HOME$/IdeaProjects/HelloWorld/src/com/example/human/Human.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/LearnGradle/build.gradle" afterPath="$USER_HOME$/LearnGradle/build.gradle" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/LearnGradle/src/main/java/hello/Greeter.java" afterPath="$USER_HOME$/LearnGradle/src/main/java/hello/Greeter.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/LearnGradle/src/main/java/hello/HelloWorld.java" afterPath="$USER_HOME$/LearnGradle/src/main/java/hello/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/LearnJava/MethodOverloading/.idea/vcs.xml" afterPath="$USER_HOME$/LearnJava/MethodOverloading/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/LearnJava/Methods/.idea/vcs.xml" afterPath="$USER_HOME$/LearnJava/Methods/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/runner.layout.xml" afterPath="$USER_HOME$/Library/Preferences/AndroidStudio2.1/options/runner.layout.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/codestyles/Default _1_.xml" afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default _1_.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/codestyles/Default _2_.xml" afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default _2_.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/colors/Peacock.icls" afterPath="$APPLICATION_CONFIG_DIR$/colors/Peacock.icls" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/code.style.schemes.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/code.style.schemes.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/find.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
+      <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/javaeeAppServers.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/javaeeAppServers.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/github_settings.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/github_settings.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/other.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/other.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/runner.layout.xml" afterPath="$USER_HOME$/Library/Preferences/PyCharm2016.1/options/runner.layout.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Library/Preferences/WebStorm2016.1/options/colors.scheme.xml" afterPath="$USER_HOME$/Library/Preferences/WebStorm2016.1/options/colors.scheme.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/applicationContext.xml" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationBeanScopeApp.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationBeanScopeApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationDemoApp.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/AnnotationDemoApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/Coach.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/Coach.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/DatabaseFortuneService.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/DatabaseFortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/FortuneService.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/FortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/HappyFortuneService.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/HappyFortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RESTFortuneService.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RESTFortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RandomFortuneService.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/RandomFortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/TennisCoach.java" afterPath="$USER_HOME$/Spring/JavaAnnotations/src/tech/mottola/javaannotations/TennisCoach.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/applicationContext.xml" afterPath="$USER_HOME$/Spring/SpringIntro/src/applicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/beanScopeapplicationContext.xml" afterPath="$USER_HOME$/Spring/SpringIntro/src/beanScopeapplicationContext.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/sport.properties" afterPath="$USER_HOME$/Spring/SpringIntro/src/sport.properties" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BaseballCoach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BaseballCoach.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanLifecycleDemoApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanLifecycleDemoApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanScopeDemoApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/BeanScopeDemoApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/Coach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/Coach.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/CricketCoach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/CricketCoach.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/FortuneService.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/FortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HappyFortuneService.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HappyFortuneService.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HelloSpringApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/HelloSpringApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/MyApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/MyApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
@@ -154,8 +91,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+            <state relative-caret-position="342">
+              <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -164,10 +101,10 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
+            <state relative-caret-position="95">
+              <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding>
-                <marker date="1467501907000" expanded="true" signature="2300:2309" ph="..." />
+                <marker date="1467519846000" expanded="true" signature="2512:2521" ph="..." />
               </folding>
             </state>
           </provider>
@@ -202,10 +139,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
+    <option name="x" value="88" />
     <option name="y" value="23" />
-    <option name="width" value="826" />
+    <option name="width" value="796" />
     <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -233,14 +180,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
       <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files" />
       </pane>
       <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="ProjectPane">
         <subPane />
       </pane>
     </panes>
@@ -739,28 +686,31 @@
       <workItem from="1467446671639" duration="16354000" />
       <workItem from="1467491617522" duration="2088000" />
       <workItem from="1467494236322" duration="6541000" />
+      <workItem from="1467511483641" duration="1001000" />
+      <workItem from="1467513082874" duration="4219000" />
+      <workItem from="1467519387974" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25400000" />
+    <option name="totallyTimeSpent" value="31269000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="23" width="826" height="1049" extended-state="0" />
-    <editor active="false" />
+    <frame x="88" y="23" width="796" height="1049" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17601135" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28061223" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30952382" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24650699" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -810,28 +760,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="3534">
+          <caret line="186" column="76" selection-start-line="186" selection-start-column="76" selection-end-line="186" selection-end-column="76" />
           <folding>
-            <marker date="1467501907000" expanded="true" signature="2300:2309" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
-          <folding>
-            <marker date="1467501907000" expanded="true" signature="2300:2309" ph="..." />
+            <marker date="1467519846000" expanded="true" signature="2512:2521" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="93" column="49" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3021">
+          <caret line="159" column="23" selection-start-line="159" selection-start-column="23" selection-end-line="159" selection-end-column="23" />
+          <folding>
+            <marker date="1467519846000" expanded="true" signature="2512:2521" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1467519846000" expanded="true" signature="2512:2521" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding>
+            <marker date="1467519846000" expanded="true" signature="2512:2521" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
           <folding />
         </state>
       </provider>
