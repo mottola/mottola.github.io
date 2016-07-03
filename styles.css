@@ -76,8 +76,20 @@ img {
 .fa-github-square {
     color: #333;
     border: none !important;
-    text-shadow: -2px 2px 3px rgba(0,0,0,0.5) !important;
+    text-shadow: -2px 2px 3px rgba(0, 0, 0, 0.5) !important;
     margin-right: 40px !important;
+}
+
+.fa-linkedin-square:hover {
+     text-shadow: -2px 2px 3px rgb(255, 255, 255) !important;
+ }
+
+.fa-twitter-square:hover {
+    text-shadow: -2px 2px 3px rgb(255, 255, 255) !important;
+}
+
+.fa-github-square:hover {
+    text-shadow: -2px 2px 3px rgb(255, 255, 255) !important;
 }
 
 .welcome {
