@@ -177,6 +177,10 @@ hr {
     color: antiquewhite;
 }
 
+.project-img {
+    box-shadow: none !important;
+}
+
 .thumbnail {
     border: 1px solid tomato !important;
     height: 510px !important;
@@ -221,5 +225,7 @@ hr {
         margin-left: 5px !important;
         color: tomato !important;
     }
+
+
 
 }

@@ -2,6 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="143e4395-1605-45fa-9a69-a9a40cb48b51" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_36.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_aop_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_beans_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_context_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_core_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_expression_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_test_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_web_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/SpringBoot/HelloDevTools/src/main/java/com/example/HomeController.java" />
       <change type="DELETED" beforePath="$USER_HOME$/LearnGradle/.gradle/2.13/taskArtifacts/build.gradle" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/hello-world.iml" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/exercism/python/hello-world/.idea/misc.xml" afterPath="" />
@@ -65,6 +110,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/SetterDemoApp.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" afterPath="$USER_HOME$/Spring/SpringIntro/src/tech/mottola/springintro/TrackCoach.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles.css" afterPath="$PROJECT_DIR$/styles.css" />
     </list>
     <ignored path="personalSite.iws" />
@@ -86,21 +132,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            <state relative-caret-position="189">
+              <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3135">
-              <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
+            <state relative-caret-position="493">
+              <caret line="180" column="32" selection-start-line="180" selection-start-column="32" selection-end-line="180" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -124,8 +170,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -690,11 +736,12 @@
       <workItem from="1467566915762" duration="9102000" />
       <workItem from="1467581607253" duration="439000" />
       <workItem from="1467582237624" duration="793000" />
+      <workItem from="1467923164797" duration="211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44905000" />
+    <option name="totallyTimeSpent" value="45116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1081" height="1013" extended-state="0" />
@@ -743,6 +790,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -887,18 +950,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="493">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="32" selection-end-line="180" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="196" column="1" selection-start-line="196" selection-start-column="1" selection-end-line="196" selection-end-column="1" />
+        <state relative-caret-position="189">
+          <caret line="76" column="10" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
           <folding />
         </state>
       </provider>
