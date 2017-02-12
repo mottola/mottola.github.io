@@ -1,0 +1,349 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(to top, #ECE9E6 , #FFFFFF) !important;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.header-box {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to left, #ECE9E6 , #FFFFFF) !important;
+  height: 120px;
+  flex-direction: row;
+  border-bottom: 1px solid thistle;
+}
+
+.header {
+  width: 100%;
+}
+
+.header h1 {
+  color: rgb(51, 51, 51);
+  text-align: center;
+  font-weight: 300;
+  font-size: 40px;
+  letter-spacing: 1.5px;
+  margin-bottom: 0.75px;
+  margin-top: 7px;
+}
+
+.header h4 {
+  color: rgb(109, 109, 109);
+  text-align: center;
+  font-weight: 300;
+  font-size: 22px;
+  letter-spacing: 0.5px;
+  margin-top: 3px;
+}
+
+.header-box ul {
+  text-align: center;
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 0;
+}
+
+.header-box .fa {
+  border: none;
+  text-shadow: -2px 2px 3px rgba(0,0,0,0.1);
+  margin: 7px 15px 5px 0;
+}
+
+.fa-linkedin-square {
+    color: #006fa6;
+}
+
+.fa-twitter-square {
+    color: #1da1f2;
+}
+
+.fa-github-square {
+    color: #333;
+}
+
+.fa-linkedin-square:hover {
+     text-shadow: -2px 2px 3px rgb(255, 255, 255);
+ }
+
+.fa-twitter-square:hover {
+    text-shadow: -2px 2px 3px rgb(255, 255, 255);
+}
+
+.fa-github-square:hover {
+    text-shadow: -2px 2px 3px rgb(255, 255, 255);
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.main-content-box {
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px solid thistle;
+}
+
+.sidebar-box {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  width: 20vw;
+}
+
+.sidebar-box h3 {
+  margin: 10px 10px 5px 0;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 1px;
+  color: tomato;
+  font-size: 22px;
+}
+
+i {
+  margin-right: 5px;
+}
+
+.sidebar-item {
+  color: rgb(51, 51, 51);
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.content-box {
+  margin-top: 40px;
+  display: flex;
+  width: 79.5vw;
+}
+
+.content-box img {
+  margin: 15px 25px 10px 0;
+  height: 350px;
+  width: auto;
+  float: left;
+}
+
+.content-box h3 {
+  color: tomato;
+  text-align: left;
+  margin: 10px 0 10px 0;
+  font-weight: 300;
+  font-size: 22px;
+}
+
+.content-box hr {
+  margin: 5px 6% 15px 20px;
+  height: 0.1px;
+  border-radius: 1%;
+  border: 0;
+  border-top: 1px solid thistle;
+}
+
+.content-box p {
+  color: rgb(51, 51, 51);
+  font-size: 17px;
+  text-align: left;
+  font-weight: 300;
+  line-height: 1.4;
+  padding-right: 50px;
+}
+
+.content-item {
+  color: rgba(4, 31, 15, 0.6);
+  text-align: center;
+  vertical-align: center;
+  margin-bottom: 25px;
+  letter-spacing: 1px;
+  font-size: 18px;
+}
+
+.details-box {
+  margin: 20px 45px 10px 45px;
+  width: 100vw;
+}
+
+.footer-box {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to left, #ECE9E6 , #FFFFFF) !important;
+  flex-direction: row;
+  height: 55px;
+}
+
+.footer-column {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+}
+
+.sidebar-box hr {
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 0.1px;
+  border-radius: 1%;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid thistle;
+}
+
+.main-content-box .fa {
+  color: tomato;
+}
+
+.about-box {
+  margin: 0 75px 0 45px;
+  height: 600px;
+  width: 100vw;
+  align-items: center;
+}
+
+.about-box h3 {
+  margin: 20px 15px 15px 0;
+  text-align: left;
+  font-weight: 300;
+  letter-spacing: 1px;
+  color: tomato;
+  font-size: 22px;
+}
+
+.about {
+  color: rgb(51, 51, 51);
+  font-size: 17px;
+  text-align: left;
+  font-weight: 300;
+  line-height: 1.4;
+  letter-spacing: 0.7px;
+}
+
+.about-items {
+  text-align: left;
+  margin: 55px 30px 10px 30px;
+}
+
+#flask {
+  width: 100%;
+  text-align: center;
+}
+
+#flask h2 {
+  margin: 30px 15px 40px 0;
+  text-align: center;
+  font-weight: 300;
+  letter-spacing: 1px;
+  color: tomato;
+  font-size: 28px;
+}
+
+.project-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: auto;
+  margin-bottom: 100px;
+}
+
+.project-item h3 {
+  margin: 15px 0 15px 0;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-align: center;
+  color: tomato;
+  font-size: 22px;
+}
+
+.project-item {
+  color: rgb(51, 51, 51);
+  margin: 0 auto;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 550px;
+  height: 600px;
+  text-align: center;
+  
+}
+
+.project-item p {
+  margin: 35px;
+  font-size: 16px;
+  font-weight: 300px;
+  letter-spacing: 1.2px;
+  text-align: left;
+  color: antiquewhite;
+}
+
+.proj-photos {
+  width: 90%;
+  padding: 10px;
+  margin: 0 auto;
+  padding: 20px 0 15px 0;
+  text-align: center;
+}
+
+.experience {
+  margin: 15px 0 15px 0;
+  font-weight: 300;
+  font-size: 17px;
+}
+
+.thumbnail {
+  border: 1px solid thistle !important;
+  height: 510px !important;
+  margin: 15px 10px 25px 10px !important;
+  /*-webkit-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);*/
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #000000 , #434343);
+  background: linear-gradient(to left, #000000 , #434343); 
+}
+
+.thumbnail:hover {
+  text-decoration: none !important;
+  -webkit-box-shadow: 0px 0px 3px 5px rgba(255, 99, 71, 0.75) !important;
+  -moz-box-shadow: 0px 0px 3px 5px rgba(255, 99, 71, 0.75) !important;
+  box-shadow: 0px 0px 3px 5px rgba(255, 99, 71, 0.75) !important;
+}
+
+.bars {
+  color: tomato;
+  font-weight: 400;
+  padding: 0 10px 0 10px;
+}
+
+.sep {
+  margin-left: 2%;
+  margin-right: 2%;
+  height: 0.1px;
+  border-radius: 1%;
+  margin-bottom: 50px;
+  border: 0;
+  border-top: 1px solid thistle;
+}
+
+.break {
+  margin: 50px 0 0 0;
+  height: 0.1px;
+  border-radius: 1%;
+  border: 0;
+  border-top: 1px solid thistle;
+}
+
+a {
+  text-decoration: none;
+}
+
+#copy {
+  color: tomato;
+}

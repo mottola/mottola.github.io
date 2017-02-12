@@ -1,194 +1,153 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="HandheldFriendly" content="true">
-
-    <title>Rick Mottola</title>
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
-        crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1"
-        crossorigin="anonymous">
-    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+  <meta charset="UTF-8">
+  <title>Rick Mottola</title>
+  <link rel="stylesheet" type="text/css" href="./index.css">
+  <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="shortcut icon" type="image/x-icon" href="img/icon.ico" />
 </head>
-
+</head>
 <body>
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-4 col-md-12 picture">
-                <div class="image">
-                    <img id='portrait' src="img/portfolioPhoto.jpg" alt="photo of Rick ">
-                    <h1 id="name">Rick Mottola</h1>
-                </div>
-                <div>
-                    <ul class="icons" id="icons">
-                        <li><a href="https://www.linkedin.com/in/rickamottola" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a></li>
-                        <li><a href="https://www.github.com/mottola" target="_blank"><i class="fa fa-github-square fa-3x"></i></a></li>
-                        <li><a href="https://twitter.com/rick_mottola" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-10 about" id="about">
-                <div id="welcome">
-                    <h3 class="welcome"><i class="fa fa-code"></i>Welcome!</h3>
-                    <p>I'm Rick Mottola, a software engineer based out of Denver, Colorado. I studied Computer Science at the University of Colorado Boulder for a year, and then attended an intense, fast-paced coding bootcamp. While there I honed my analytical skills and developed advanced knowledge in HTML, CSS, and JavaScript. I reinforced and applied those skills by building several projects which utilized various different web technologies (check them out below!).</p>
-                    
-                    <p>I am currently working at a startup where we are building a hybrid web application targeting individuals who are at risk for diabetes. Our platform empowers these individuals to reach and maintain a healthy lifestyle. Our app is built with Node.js and React, and uses a combination of MongoDB with Redis for data persistence.</p>
-                    
-                    <p>Outside of work, I am always looking for ways to deepen my knowledge and improve my skill-set. It is very important to me that I continue to challenge myself while maintaining a growth mindset. Aside from keeping busy on programming challenge sites like HackerRank and Exercism,I have worked through courses from both Stanford and UC Berkeley to acquire a rigorous understanding of data structures and algorithms. I am currently working through UC Berkeley's systems development course (CS 61C) to acquire a deeper understanding of what is happening at the machine-level. I am driven, passionate, and relentless in my desire to learn.</p>
-                    
-                    <p>I am language agnostic, and prefer to understand the underlying methodologies and how to apply them rather than focusing on a specific programming language. I have worked with and understand all of the major paradigms (procedural, OOP, and functional), and feel comfortable working with any of them. I believe every software problem presents unique challenges, and the best tools should be chosen accordingly in reaching a solution.</p>
-                    <hr>
-                    <h3><i class="fa fa-briefcase"></i>Experience</h3>
-                    <ul id="skills">
-                        <li>(July, 2016 - Present)<span class="bars"> => </span> Full Stack Engineer at C3LX</li>
-                    </ul>
-                    <hr>
-                    <h3><i class="fa fa-cogs"></i>Skills</h3>
-                    <ul id="skills">
-                        <li> JavaScript <span class="bars">|</span></li>
-                        <li> Node.js <span class="bars">|</span></li>
-                        <li> Elixir <span class="bars">|</span></li>
-                        <li> Phoenix <span class="bars">|</span></li>
-                        <li> SQL (PostgreSQL) <span class="bars">|</span></li>
-                        <li> NoSQL (MongoDB) <span class="bars">|</span></li>
-                        <li> React <span class="bars">|</span></li>
-                        <li> Vim <span class="bars">|</span></li>
-                        <li> Git <span class="bars">|</span></li>
-                        <li> Agile <span class="bars">|</span></li>
-                        <li> HTML5 <span class="bars">|</span></li>
-                        <li> CSS3 <span class="bars">|</span></li>
-                    </ul>
-                    <hr>
-                    <h3><i class="fa fa-hand-spock-o"></i>Lifestyle</h3>
-                    <p>My family is the most important thing in my life. I spend as much time as possible with my wife and son. I love escaping to nature because it is where I can decompress and find peace. I climb mountains during the summer, enjoy stargazing, and love learning about other cultures. I love food, probably too much! I read science fiction and high fantasy. I like to relax in my hammock while listening to classical music. I hope to one day travel the world with my family.</p>
-                </div>
-            </div>
-        </div>
+  <header class="header-box">
+    <div class="header">
+      <h1>Rick Mottola</h1>
+      <h4>Full Stack Engineer</h4>
+      <ul class="icons" id="icons">
+        <li>
+          <a href="https://www.linkedin.com/in/rickamottola" target="_blank"><i class="fa fa-linkedin-square fa-lg"></i></a>
+        </li>
+        <li>
+          <a href="https://www.github.com/mottola" target="_blank"><i class="fa fa-github-square fa-lg"></i></a>
+        </li>
+        <li>
+          <a href="https://twitter.com/rick_mottola" target="_blank"><i class="fa fa-twitter-square fa-lg"></i></a>
+        </li>
+      </ul>
     </div>
-    <div class="row">
-        <div class="col-md-12 col-xs-12">
-            <hr id="projects-hr">
-            <h1 id="flask"><i class="fa fa-flask"></i>Projects
-            </h1>
+  </header>
+  <section class="main-content-box">
+    <aside class="sidebar-box">
+      <h3><i class="fa fa-cogs"></i> Skills</h3>
+      <hr>
+      <div class="sidebar-item"><i class="fa fa-code" aria-hidden="true"></i> JavaScript</div>
+      <div class="sidebar-item"><i class="fa fa-code" aria-hidden="true"></i> Node.js</div>
+      <div class="sidebar-item"><i class="fa fa-code" aria-hidden="true"></i> React</div>
+      <div class="sidebar-item"><i class="fa fa-code" aria-hidden="true"></i> Elixir</div>
+      <div class="sidebar-item"><i class="fa fa-code" aria-hidden="true"></i> Phoenix</div>
+      <div class="sidebar-item"><i class="fa fa-database" aria-hidden="true"></i> MongoDB</div>
+      <div class="sidebar-item"><i class="fa fa-database" aria-hidden="true"></i> SQL</div>
+      <div class="sidebar-item"><i class="fa fa-code-fork" aria-hidden="true"></i> Git</div>
+      <div class="sidebar-item"><i class="fa fa-html5" aria-hidden="true"></i> HTML5</div>
+      <div class="sidebar-item"><i class="fa fa-css3" aria-hidden="true"></i> CSS3</div>
+    </aside>
+    <section class="content-box">
+      <section class="content-item">
+        <div>
+          <img src="./img/photo.jpg" alt="">
         </div>
-    </div>
-    <div class="container project">
-        <div class="row">
-            <div class="col-xs-12 col-md-6">
-                <a href="https://github.com/mottola/learn-links" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/learnlinks.png" class="project-img" alt="learnlinks web app">
-                        <div class="caption">
-                            <h3>LearnLinks</h3>
-                            <p>An education-based search engine that renders results from YouTube, EdX, Reddit, Quora, and more.
-                                Built with React and Meteor.</p>
-                            <p>*Links to Github source code</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-12 col-md-6">
-                <a href="https://mottola.github.io/musk/" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/musk.png" class="project-img" alt="Elon Musk Website">
-                        <div class="caption">
-                            <h3>Elon Musk Tribute Page</h3>
-                            <p>Tribute page for Elon Musk created with HTML, CSS, and Javascript with jQuery. Click to visit
-                                the site!</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+        <h3 class="welcome"><i class="fa fa-child"></i> Welcome!</h3>
+        <p>I'm Rick Mottola, a software engineer based out of Denver, Colorado. I studied Computer Science at the University of Colorado Boulder for a year, and then attended an intense, fast-paced coding bootcamp. While there I honed my analytical skills and developed advanced knowledge in HTML, CSS, and JavaScript. I reinforced and applied those skills by building several projects which utilized various different web technologies (check them out below!).</p><br>
+        
+        <p>I am currently working at a startup where we are building a hybrid web application targeting individuals who are at risk for diabetes. Our platform empowers these individuals to reach and maintain a healthy lifestyle. Our app is built with Node.js and React, and uses a combination of MongoDB with Redis for data persistence.</p><br>
+        
+        <p>Outside of work, I am always looking for ways to deepen my knowledge and improve my skill-set. It is very important to me that I continue to challenge myself while maintaining a growth mindset. Aside from keeping busy on programming challenge sites like HackerRank and Exercism, I have worked through courses from both Stanford and UC Berkeley to acquire a rigorous understanding of data structures and algorithms. I am currently working through UC Berkeley's systems development course (CS 61C) to acquire a deeper understanding of what is happening at the machine-level. I am driven, passionate, and relentless in my desire to learn.</p><br>
+        
+        <p>I am language agnostic, and prefer to understand the underlying methodologies and how to apply them rather than focusing on a specific programming language. I have worked with and understand all of the major paradigms (procedural, OOP, and functional), and feel comfortable working with any of them. I believe every software problem presents unique challenges, and the best tools should be chosen accordingly in reaching a solution.</p><br>
+      </section>
+    </section>
+    <section class="about-box">
+      <hr class="sep">
+      <div class="about-items">
+        <h3><i class="fa fa-briefcase"></i> Experience</h3>
+        <p class="experience">(July, 2016 - Present)<span class="bars"> => </span> Full Stack Engineer at C3LX</p>
+        <p class="experience">(July, 2013 - April, 2016)<span class="bars"> => </span> Lead Bartender at Bar Louie</p>
+        <hr class="break">
+        <h3><i class="fa fa-hand-spock-o"></i> Lifestyle</h3>
+        <p class="about">I value my family above all else in life. I spend as much time as possible with my wife and son, and seeing the sense of wonder in my son's eyes just puts everything into perspective. I love escaping to nature because it is where I can decompress and find peace. I climb mountains during the summer, enjoy stargazing, and love learning about other cultures. I love food, probably too much! I love to read. High fantasy is my favorite, but I also enjoy non-fiction. I like to relax in my hammock while listening to classical music. I hope to one day travel the world with my family.</p>
+        <br>
+        <p class="about">If I was able to change one thing in the world, it would be the inequality of human living standards across various regions. I was lucky enough to be born in the United States, but many millions of others did not have the fortune of being born into a safe country with high standards of living. Each day, millions of individuals find themselves struggling just to survive. Starvation, disease, poverty, corruption, and war plague many countries, and the inhabitants of these countries often have no way out. I envision a world where no matter where one is born, they have the fundamental human rights of food, water, safety, and freedom. Although it is a very difficult problem to solve, I believe that techonology combined with global effort and awareness will play a major role in bringing this vision into fruition.</p>
+        <hr class="break">
+      </div>
+    </section>
+    <div id="flask"><h2><i class="fa fa-flask"></i> Projects</h2></div>
+    <section class="project-box">
+      <div class="project-item">
+      <a href="https://github.com/mottola/learn-links" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/learnlinks.png" alt="">
+          <h3>Learn Links</h3>
+          <p>An education-based search engine that renders results from YouTube, EdX, Reddit, Quora, and more. Built with React and Meteor.</p>
         </div>
-    </div>
-    <div class="container project">
-        <div class="row">
-            <div class="col-xs-12 col-md-6">
-                <a href="https://mottola.github.io/rgb-game/" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/rgb.png" class="project-img" alt="different colored squares">
-                        <div class="caption">
-                            <h3>RGB Color Guessing Game</h3>
-                            <p>Built with HTML, CSS, and JavaScript. Click to play!!</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-12 col-md-6">
-                <a href="https://mottola.github.io/beatbox/" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/patatapclone.png" class="project-img" alt="different colored circles">
-                        <div class="caption">
-                            <h3>Beat Box App</h3>
-                            <p>This is a Patatap clone that uses the howler.js audio library. Make music by pressing letter
-                                keys on your keyboard. Click to Play!!</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+      </a>
+      </div>
+      <div class="project-item">
+      <a href="https://mottola.github.io/musk/" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/musk.png" alt="">
+          <h3>Elon Musk Tribute Page</h3>
+          <p>Tribute page for Elon Musk created with HTML, CSS, and Javascript with jQuery. Click to visit the site!</p>
         </div>
-    </div>
-    <div class="container project">
-        <div class="row">
-            <div class="col-xs-12 col-md-6">
-                <a href="https://github.com/mottola/meteor-react-employee-database" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/employee-database.png" class="project-img" alt="grid of photos">
-                        <div class="caption">
-                            <h3>Employee Database</h3>
-                            <p>This is an employee database application built using React.</p>
-                            <p>*Links to Github source code</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-12 col-md-6">
-                <a href="https://github.com/mottola/weather-app-redux" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/weatherapp.png" class="project-img" alt="current weather">
-                        <div class="caption">
-                            <h3>Weather App</h3>
-                            <p>Displays weather and map of your favorite cities! Built with React and Redux.</p>
-                            <p>*Links to Github source code</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+        </a>
+      </div>
+      <div class="project-item">
+      
+      <a href="https://mottola.github.io/rgb-game/" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/rgb.png" alt="">
+          <h3>RGB Color Guessing Game</h3>
+          <p>Built with HTML, CSS, and JavaScript. Click to play!</p>
         </div>
-    </div>
-    <div class="container project">
-        <div class="row">
-            <div class="col-xs-12 col-md-6">
-                <a href="https://github.com/mottola/markdown-converter" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/mdconverter.png" class="project-img" alt="text converted to markdown">
-                        <div class="caption">
-                            <h3>Markdown Converter</h3>
-                            <p>A small text to markdown conversion app built with React.</p>
-                            <p>*Links to Github source code</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
-            <div class="col-xs-12 col-md-6">
-                <a href="https://github.com/mottola/tictactoe" target="_blank">
-                    <div class="thumbnail">
-                        <img src="img/tictactoe.png" class="project-img" alt="tic tac toe game in terminal">
-                        <div class="caption">
-                            <h3>Terminal Tic Tac Toe</h3>
-                            <p>Terminal tic tac toe game using C++ from my first programming course.</p>
-                            <p>*Links to Github source code</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+        </a>
+      </div>
+      <div class="project-item">
+      <a href="https://mottola.github.io/beatbox/" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/patatapclone.png" alt="">
+          <h3>Beat Box App</h3>
+          <p>This is a Patatap clone that uses the howler.js audio library. Make music by pressing letter keys on your keyboard. Click to Play!</p>
         </div>
-    </div>
-</body>
-
+      </a>
+      </div>
+      <div class="project-item">
+      <a href="https://github.com/mottola/meteor-react-employee-database" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/employee-database.png" alt="">
+          <h3>Employee Database</h3>
+          <p>This is an employee database application built using React.</p>
+        </div>
+      </a>
+      </div>
+      <div class="project-item">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/weatherapp.png" alt="">
+          <h3>Weather App</h3>
+          <p>Displays weather and map of your favorite cities! Built with React and Redux.</p>
+        </div>
+      </div>
+      <div class="project-item">
+      <a href="https://github.com/mottola/weather-app-redux" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/mdconverter.png" alt="">
+          <h3>Markdown Converter</h3>
+          <p>A small text to markdown conversion app built with React.</p>
+        </div>
+      </a>
+      </div>
+      <div class="project-item">
+      <a href="https://github.com/mottola/markdown-converter" target="_blank">
+        <div class="thumbnail">
+          <img class="proj-photos" src="./img/tictactoe.png" alt="">
+          <h3>Terminal Tic Tac Toe</h3>
+          <p>Terminal tic tac toe game using C++ from my first programming course.</p>
+        </div>
+      </a>
+      </div>
+    </section>
+  </section>
+  <footer class="footer-box">
+    <div class="footer-column"><span id="copy">&copy;</span> 2017 Rick Mottola <span id="sep">|</span> All Rights Reserved</div>
+  </footer>
+ </body>
 </html>
