@@ -4,14 +4,14 @@
 }
 
 body {
-  background: linear-gradient(to top, #ECE9E6 , #FFFFFF) !important;
-  font-family: 'Josefin Sans', sans-serif;
+  background: linear-gradient(to top, #ece9e6, #ffffff) !important;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .header-box {
   display: flex;
   align-items: center;
-  background: linear-gradient(to left, #ECE9E6 , #FFFFFF) !important;
+  background: linear-gradient(to left, #ece9e6, #ffffff) !important;
   height: 120px;
   flex-direction: row;
   border-bottom: 1px solid thistle;
@@ -37,7 +37,7 @@ body {
   font-weight: 300;
   font-size: 22px;
   letter-spacing: 0.5px;
-  margin-top: 3px;
+  margin: 5px 0 5px 0;
 }
 
 .header-box ul {
@@ -49,40 +49,40 @@ body {
   -webkit-padding-start: 0;
 }
 
-.header-box .fa {
+.header-box .fab {
   border: none;
-  text-shadow: -2px 2px 3px rgba(0,0,0,0.1);
+  text-shadow: -2px 2px 3px rgba(0, 0, 0, 0.1);
   margin: 7px 15px 5px 0;
 }
 
-.fa-linkedin-square {
-    color: #006fa6;
+.fa-linkedin {
+  color: #006fa6;
 }
 
 .fa-twitter-square {
-    color: #1da1f2;
+  color: #1da1f2;
 }
 
 .fa-github-square {
-    color: #333;
+  color: #333;
 }
 
-.fa-linkedin-square:hover {
-     text-shadow: -2px 2px 3px rgb(255, 255, 255);
- }
+.fa-linkedin:hover {
+  text-shadow: -2px 2px 3px rgb(255, 255, 255);
+}
 
 .fa-twitter-square:hover {
-    text-shadow: -2px 2px 3px rgb(255, 255, 255);
+  text-shadow: -2px 2px 3px rgb(255, 255, 255);
 }
 
 .fa-github-square:hover {
-    text-shadow: -2px 2px 3px rgb(255, 255, 255);
+  text-shadow: -2px 2px 3px rgb(255, 255, 255);
 }
 
 li {
-    list-style-type: none;
-    display: inline-block;
-    text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .main-content-box {
@@ -177,7 +177,7 @@ i {
 .footer-box {
   display: flex;
   align-items: center;
-  background: linear-gradient(to left, #ECE9E6 , #FFFFFF) !important;
+  background: linear-gradient(to left, #ece9e6, #ffffff) !important;
   flex-direction: row;
   height: 55px;
 }
@@ -198,13 +198,13 @@ i {
   border-top: 1px solid thistle;
 }
 
-.main-content-box .fa {
+.main-content-box .fab .fas {
   color: tomato;
 }
 
 .about-box {
   margin: 0 75px 0 45px;
-  height: 600px;
+  height: auto;
   width: 100vw;
   align-items: center;
 }
@@ -238,7 +238,7 @@ i {
 }
 
 #flask h2 {
-  margin: 30px 15px 40px 0;
+  margin: 0 15px 40px 0;
   text-align: center;
   font-weight: 300;
   letter-spacing: 1px;
@@ -247,11 +247,10 @@ i {
 }
 
 .project-box {
+  height: auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  height: auto;
-  margin-bottom: 100px;
 }
 
 .project-item h3 {
@@ -271,7 +270,6 @@ i {
   width: 550px;
   height: 600px;
   text-align: center;
-  
 }
 
 .project-item p {
@@ -305,8 +303,8 @@ i {
   -moz-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
   box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);*/
   background: #000000; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #000000 , #434343);
-  background: linear-gradient(to left, #000000 , #434343); 
+  background: -webkit-linear-gradient(to left, #000000, #434343);
+  background: linear-gradient(to left, #000000, #434343);
 }
 
 .thumbnail:hover {
@@ -333,7 +331,7 @@ i {
 }
 
 .break {
-  margin: 50px 0 0 0;
+  margin: 50px 0 50px 0;
   height: 0.1px;
   border-radius: 1%;
   border: 0;
