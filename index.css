@@ -109,7 +109,7 @@ li {
 }
 
 i {
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .sidebar-item {
@@ -125,7 +125,7 @@ i {
 .content-box {
   margin-top: 40px;
   display: flex;
-  width: 79.5vw;
+  width: 70vw;
 }
 
 .content-box img {
@@ -290,7 +290,7 @@ i {
 }
 
 .experience {
-  margin: 15px 0 15px 0;
+  padding: 15px 0;
   font-weight: 300;
   font-size: 17px;
 }
@@ -299,9 +299,9 @@ i {
   border: 1px solid thistle !important;
   height: 510px !important;
   margin: 15px 10px 25px 10px !important;
-  /*-webkit-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
-  -moz-box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);
-  box-shadow: -8px 8px 5px 0px rgba(0,0,0,0.75);*/
+  -webkit-box-shadow: -8px 8px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -8px 8px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: -8px 8px 5px 0px rgba(0, 0, 0, 0.75);
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #000000, #434343);
   background: linear-gradient(to left, #000000, #434343);
